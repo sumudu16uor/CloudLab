@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Sumudu2022'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_689A749D39F0463598C7F1BFE3FD06FE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28C3AAF1355441A5908410233130CC20 }}
           package: '*.jar'
